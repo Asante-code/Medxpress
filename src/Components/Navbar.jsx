@@ -24,9 +24,9 @@ const Navbar = () => {
       <div className="w-30  h-11 flex text-center items-center text-sm font-semibold text-gray-500 placeholder-gray-400 hover:bg-[#F5F5F0] outline-none px-2  rounded-full ">
         Your Account
       </div>
-      <div className="flex items-center text-center justify-center  gap-2  h-11 w-25  text-sm font-semibold text-gray-500 placeholder-gray-400 hover:bg-[#F5F5F0] outline-none px-2 py-2 rounded-full ">
+      <div className="flex items-center text-center justify-center  gap-6  h-11 w-25  text-sm font-semibold text-gray-500 placeholder-gray-400 hover:bg-[#F5F5F0] outline-none px-2 py-2 rounded-full ">
   
-          <BsCart3 /> Cart
+          <BsCart3 /> Cart 
       </div>
     </div>
 
